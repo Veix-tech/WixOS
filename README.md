@@ -1,4 +1,4 @@
-# WixOS
+# WixOS  GSI
 <img width="400" height="400" alt="ad" src="https://github.com/user-attachments/assets/fe34d7ed-c680-435f-8349-490e53c03d74" />
 
 
